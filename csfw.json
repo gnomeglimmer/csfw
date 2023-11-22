@@ -1,0 +1,8 @@
+{
+    "*": {
+        "min": "1.0.0",
+        "max": "1.0.0",
+        "msg": "An update to support the newest WhatsApp code has been published. Make sure that updates are enabled in the extension settings of your browser."
+    },
+    "99.99.99": "Due to a change in WhatsApp the extension is currently not working. A fix is being worked at and will be released within the next few days. Thank you for your patience."
+}
